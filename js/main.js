@@ -271,7 +271,7 @@ AOS.init({
 })(jQuery);
 
 const myTags = [
-	'Laravel', 'Angular', 'PHP', 'Node.JS', 'ReactJS', 'CosmosDB', 'Neo4j', 'POO', 'Rest-APIs', 'JavaScript', 'Ajax', 'Slim 3', 'VueJS', 'Flutter', 'Android', 'React Native', 'Java', 'JEE', 'Soap', 'MySQL', '.Net', 'Linux', 'Python', 'MongoDB', 'C#', 'UML', 'Scrum', 'DevOps', 'Bootstrap', 'HTML5', 'CSS3', 'scss', 'Adobe Ps', 'Adobe Pr', 'Adobe illustrator', 'Adobe Lightroom', 'Adobe ID', 'WordPress', 'Git', 'NodeRed', 'UX', 'Jira', 'MVC', 'Azure Functions'
+	'Laravel', 'Angular', 'PHP', 'Node.JS', 'ReactJS', 'CosmosDB', 'Neo4j', 'POO', 'Rest-APIs', 'JavaScript', 'Ajax', 'Slim 3', 'VueJS', 'Flutter', 'Android', 'React Native', 'Java', 'JEE', 'Soap', 'MySQL', '.Net', 'Linux', 'Python', 'MongoDB', 'C#', 'UML', 'Scrum', 'DevOps', 'Bootstrap', 'HTML5', 'CSS3', 'scss', 'Adobe Ps', 'Adobe Pr', 'Adobe illustrator', 'Adobe Lightroom', 'Adobe ID', 'WordPress', 'Git', 'NodeRed', 'UX', 'Jira', 'MVC', 'Azure Functions', 'SpringBoot'
 ];
 
 var tagCloud = TagCloud('.content', myTags, {
